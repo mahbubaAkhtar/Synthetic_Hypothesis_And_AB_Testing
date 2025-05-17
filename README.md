@@ -1,5 +1,6 @@
 # 📚 School Ratings Analysis
-### 🎯 A/B Testing & 🧪 Synthetic Hypothesis Testing in Assesment
+### 🎯 A/B Testing  & 
+### 🧪 Synthetic Hypothesis Testing in Assesment
 
 Welcome to a hands-on data science project that combines **real-world education data** and **synthetic statistical modeling** to evaluate the performance and impact of school types across the U.S.
 
