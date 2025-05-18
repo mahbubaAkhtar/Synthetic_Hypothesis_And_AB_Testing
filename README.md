@@ -94,7 +94,6 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ```
 
 ## 🧑‍🏫 Educational Use Cases
-🎓 Final year or capstone project
 🔬 Statistics or data science assignment
 🏛️ Policy impact analysis demo
 📈 Portfolio to showcase experimentation and hypothesis testing skills
